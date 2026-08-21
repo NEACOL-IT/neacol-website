@@ -130,6 +130,8 @@
           <a href="https://www.facebook.com/NewEnglandAsociationForColombianChildren/" target="_blank" rel="noopener" title="Facebook">f</a>
           <a href="https://twitter.com/neacol" target="_blank" rel="noopener" title="Twitter">𝕏</a>
           <a href="https://www.youtube.com/c/NEACOL" target="_blank" rel="noopener" title="YouTube">▶</a>
+          <a href="https://www.instagram.com/neacol_colombia" target="_blank" rel="noopener" title="Instagram">ig</a>
+          <a href="https://www.linkedin.com/company/neacol" target="_blank" rel="noopener" title="LinkedIn">in</a>
         </div>
         <div class="footer-gallery">
           <img src="https://neacol.org/wp-content/uploads/2023/03/C2M2WJ-1-150x150.jpg" alt="">
